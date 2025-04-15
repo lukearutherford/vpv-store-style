@@ -40,14 +40,18 @@
   }
   .ez-rent-out .navbar-default .navbar-nav > li > a,
   .ez-rent-out .navbar-default .navbar-brand {
-    color: #002244 !important;  /* Dark blue font */
-    font-size: 16px !important; /* Larger font */
-    font-weight: 600;
-    padding: 15px 20px;
+    color: #334867 !important;  /* Dark blue font */
+/* font-size: 16px !important; /* Larger font */
+/*    font-weight: 600; */
+    padding: 0px 15px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
   }
   .ez-rent-out .navbar-default .navbar-nav > li > a:hover,
   .ez-rent-out .navbar-default .navbar-brand:hover {
-    color: #007bff !important;  /* Brighter blue on hover */
+    color: #7bb5dd !important;  /* Brighter blue on hover */
   }
 
   .ez-rent-out .cart-nav span.badge {
