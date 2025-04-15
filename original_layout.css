@@ -6,14 +6,14 @@
 /* Other colors */
 /* Order state colors */
 .ez-rent-out .btn.btn-primary {
-    background-color: #e9fa00;
-    color: yellow;
+    background-color: #000000;
+    color: white;
     -webkit-box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     border: 1px solid transparent; }
   .ez-rent-out .btn.btn-primary:hover, .ez-rent-out .btn.btn-primary:active {
-    background-color: #e9fa00; }
+    background-color: #c6c6c6; }
   .ez-rent-out .btn.btn-secondary {
     background-color: yellow;
     color: green;
