@@ -73,3 +73,18 @@
 .navbar-default .navbar-nav > li > a:hover {
   color: #cccccc !important;  /* Lighter shade on hover */
 }
+
+/* ---- TOP NAV FONT COLOR FIX ---- */
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-text,
+.navbar-default .navbar-right > li > a,
+.navbar-default .navbar-link,
+.navbar-default .navbar-brand {
+    color: #002244 !important;  /* Replace with your desired font color */
+}
+
+/* ---- OPTIONAL: Change Font on Hover ---- */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover {
+    color: #007bff !important;
+}
