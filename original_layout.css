@@ -28,7 +28,8 @@
   .ez-rent-out span.glyphicon.white {
     color: #FFF; }
 
-  /* Nav Bar */
+
+/* Nav Bar */
   .ez-rent-out nav.navbar-default {
     background-color: #ffffff !important; /* White background */
     border-bottom: 1px solid #ccc; /* Optional subtle border */
@@ -59,6 +60,16 @@
     font-size: 16px;
     color: #002244;
   }
+  
+  .ez-rent-out .navbar-right {
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+  }
+  .ez-rent-out .navbar-right li {
+    margin-left: 15px;
+  }
+
 
   .ez-rent-out .cart-nav span.badge {
     background-color: #e2ac00; }
