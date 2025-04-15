@@ -53,6 +53,12 @@
   .ez-rent-out .navbar-default .navbar-brand:hover {
     color: #7bb5dd !important;  /* Brighter blue on hover */
   }
+  .ez-rent-out .navbar-default .navbar-nav > li > a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    color: #002244;
+  }
 
   .ez-rent-out .cart-nav span.badge {
     background-color: #e2ac00; }
