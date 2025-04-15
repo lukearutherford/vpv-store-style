@@ -31,7 +31,13 @@
   /* Nav Bar */
   .ez-rent-out nav.navbar-default {
     background-color: #ffffff !important; /* White background */
-    border-bottom: 1px solid #ccc; /* Optional subtle border */
+/*     border-bottom: 1px solid #ccc; /* Optional subtle border */ */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 70px; /* Add this */
+    display: flex;
+    align-items: center;
+  }
   }
   .ez-rent-out .navbar-default .navbar-nav > li > a,
   .ez-rent-out .navbar-default .navbar-brand {
