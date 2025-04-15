@@ -20,22 +20,22 @@
   
   /* ---- CTA BUTTON STYLING ---- */
   a.inquiry-button, .btn-inquire {
-    background-color: #004b8d !important;
+    background-color: #334867 !important;
     color: #fff !important;
-    padding: 10px 20px !important;
+    padding: 30px 60px !important;
     border-radius: 6px !important;
     font-weight: bold;
     text-transform: uppercase;
     border: none;
   }
   a.inquiry-button:hover {
-    background-color: #007bff !important;
+    background-color: #8dc63f !important;
   }
   
   /* ---- FILTER + SORT PANEL ---- */
   .search-bar,
   .store-header {
-    background-color: #f9f9f9 !important;
+    background-color: #ffffff !important;
   }
 
 
