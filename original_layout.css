@@ -13,7 +13,7 @@
     box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     border: 1px solid transparent; }
   .ez-rent-out .btn.btn-primary:hover, .ez-rent-out .btn.btn-primary:active {
-    background-color: #EACD71; }
+    background-color: #8dc63f; }
   .ez-rent-out .btn.btn-secondary {
     background-color: gray;
     color: white;
@@ -27,10 +27,24 @@
     background-color: #404040; }
   .ez-rent-out span.glyphicon.white {
     color: #FFF; }
+
+  /* Nav Bar */
   .ez-rent-out nav.navbar-default {
-    background-color: #404040; }
-  .ez-rent-out .navbar-default .navbar-nav > li > a {
-    color: #FFF; }
+    background-color: #ffffff !important; /* White background */
+    border-bottom: 1px solid #ccc; /* Optional subtle border */
+  }
+  .ez-rent-out .navbar-default .navbar-nav > li > a,
+  .ez-rent-out .navbar-default .navbar-brand {
+    color: #002244 !important;  /* Dark blue font */
+    font-size: 16px !important; /* Larger font */
+    font-weight: 600;
+    padding: 15px 20px;
+  }
+  .ez-rent-out .navbar-default .navbar-nav > li > a:hover,
+  .ez-rent-out .navbar-default .navbar-brand:hover {
+    color: #007bff !important;  /* Brighter blue on hover */
+  }
+
   .ez-rent-out .cart-nav span.badge {
     background-color: #e2ac00; }
   .ez-rent-out input[type=range] {
@@ -76,10 +90,10 @@
     stroke: #FFAF3F; }
   
   .black-text-color {
-    color: #222222 !important; }
+    color: #334867 !important; }
   
   body {
-    font-size: 14px;
+    font-size: 21px;
     font-family: Inter, Helvetica, sans-serif;
     overflow-x: hidden; }
   
