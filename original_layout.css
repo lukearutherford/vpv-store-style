@@ -6,27 +6,27 @@
 /* Other colors */
 /* Order state colors */
 .ez-rent-out .btn.btn-primary {
-    background-color: #334867;
-    color: white;
+    background-color: #e9fa00;
+    color: yellow;
     -webkit-box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     border: 1px solid transparent; }
   .ez-rent-out .btn.btn-primary:hover, .ez-rent-out .btn.btn-primary:active {
-    background-color: #8dc63f; }
+    background-color: #e9fa00; }
   .ez-rent-out .btn.btn-secondary {
-    background-color: gray;
-    color: white;
+    background-color: yellow;
+    color: green;
     -webkit-box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 3px 9px -4px rgba(0, 0, 0, 0.75);
     border: 1px solid transparent; }
   .ez-rent-out .btn.btn-secondary:hover, .ez-rent-out .btn.btn-secondary:active {
-    background-color: #ababab; }
+    background-color: #e9fa00; }
   .ez-rent-out .btn.btn-bold {
-    background-color: #404040; }
+    background-color: #e9fa00; }
   .ez-rent-out span.glyphicon.white {
-    color: #FFF; }
+    color: #e9fa00; }
 
   /* Nav Bar */
   .ez-rent-out nav.navbar-default {
